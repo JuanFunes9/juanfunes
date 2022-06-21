@@ -6,8 +6,8 @@
  
 <hr/>
 
-### 🤵 Sobre mi:
-- Hola! Soy Allan, desarrollador Full Stack orientado a Backend, con experiencia en el desarrollo de aplicaciones web y trabajo en equipo. Apto para el desarrollo tanto de interfaces de usuario, servidores, como bases de datos y modelos relacionales.
+### Bienvenido!
+- Soy Allan, desarrollador Full Stack orientado a Backend, con experiencia en el desarrollo de aplicaciones web y trabajo en equipo. Apto para el desarrollo tanto de interfaces de usuario, servidores, como bases de datos y modelos relacionales.
 - Me considero una persona con un apunte muy marcado hacia los resultados y el trabajo en equipo. Soy organizado, proactivo y con alto nivel de autonomía que va de la mano con mi curiosidad y mi pasión por la tecnología. Soy un entusiasta de los desafíos, y creo en la idea de que todo lo que puedo imaginar también puedo crearlo!
 
 ### :abacus: Tech Stack
