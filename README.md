@@ -33,18 +33,6 @@
   <img align="center" alt="Git" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Github" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 </div>
-  </br>
-  </br>
-
-  ### :desktop_computer: System
-</br>
-<div style="display: inline_block">
-  <img align="center" alt="Linux" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Fedora" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg">
-  <img align="center" alt="Bash" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
-</div>
- 
-</br>
 </br>
 
 ### :rocket: Soon
@@ -59,8 +47,15 @@
   <img align="center" alt="GraphQL" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg">
   <img align="center" alt="Socket.io" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg">
  </div>
- 
 </br>
+
+  ### :desktop_computer: System
+</br>
+<div style="display: inline_block">
+  <img align="center" alt="Linux" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Fedora" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg">
+  <img align="center" alt="Bash" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
+</div>
 </br>
  
  ### :chart_with_upwards_trend: Stats:
