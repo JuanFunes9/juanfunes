@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://developer.sabre.com/sites/default/files/2019-10/Picture4-1-1024x242_3.png" width="98%" height="auto" maxHeight="200px"/>
+<img src="https://www.fusioninformatics.com/images/seo-banner/nodejs-banner.jpg" width="98%" height="auto" maxHeight="200px"/>
  
 </div>
  
@@ -62,7 +62,6 @@
  <div>
  
  ![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=allannara&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"]) <br/> <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allannara&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
  
  </div>
  
@@ -75,7 +74,7 @@
  </div>
 
 ### :mailbox: Contact me!
-<div>
+<div align="center">
  
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allannara/)
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:allannara@outlook.com)
