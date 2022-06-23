@@ -10,7 +10,7 @@
 - Soy Allan, desarrollador Full Stack orientado a Backend, con experiencia en el desarrollo de aplicaciones web y trabajo en equipo.
 - Me considero una persona con un apunte marcado hacia los resultados. Soy organizado, proactivo y con gran nivel de autonomía que va de la mano con mi curiosidad y mi pasión por la tecnología. Soy un entusiasta de los desafíos, y creo en la idea de que todo lo que puedo imaginar también puedo crearlo!
 
-### :abacus: Tech Stack
+### :heavy_check_mark: Tech Stack
 </br>
 <div style="display: inline_block">
   <img align="center" alt="VSCode" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
@@ -22,6 +22,7 @@
   <img align="center" alt="Redux" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
   <img align="center" alt="Vercel" height="60" width="60" src="https://www.svgrepo.com/show/327408/logo-vercel.svg">
   <img align="center" alt="npm" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
+  </br>
   <img align="center" alt="NodeJS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Express" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
   <img align="center" alt="Postgres" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
@@ -31,23 +32,22 @@
   <img align="center" alt="Jest" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
   <img align="center" alt="Git" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Github" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img align="center" alt="Bash" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
 </div>
   </br>
   </br>
 
-  ### :abacus: Operating System
+  ### :desktop_computer: System
 </br>
 <div style="display: inline_block">
   <img align="center" alt="Linux" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Fedora" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg">
-  <img align="center" alt="Windows" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
+  <img align="center" alt="Bash" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
 </div>
  
 </br>
 </br>
 
-### :abacus: Soon
+### :rocket: Soon
 </br>
 <div style="display: inline_block">
   <img align="center" alt="TypeScript" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
@@ -71,7 +71,7 @@
  
  </div>
  
-  ### :file_folder: Projects:
+  ### :briefcase: Projects:
  <div>
 
   [<img src="https://github.com/AllanNara/allannara/blob/main/images/henryflow.jpg" width="42%" height="auto"/>](https://henry-flow-app.vercel.app/) 
@@ -79,7 +79,7 @@
   
  </div>
 
-<h3>:iphone: Contact</h3>
+### :mailbox: Contact me!
 <div>
  
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allannara/)
