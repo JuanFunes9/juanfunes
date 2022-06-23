@@ -34,6 +34,14 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allannara&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
  
  </div>
+ 
+  ### :file_folder: Fullstack Projects:
+ <div align="center">
+
+  [<img src="blob:https://vercel.com/44fd93f5-27b4-4ae2-bb6e-6c33fff0f4d2" width="250" height="200"/>](https://overflow-frontend.vercel.app/)
+  [<img src="blob:https://vercel.com/e018f9bc-dbfc-4cc2-a798-230a62864781" width="250" height="200"/>](https://pi-food-henry-beta.vercel.app/)
+  
+ </div>
 
 <h3>:iphone: Contactame!</h3>
 <div align="center">
