@@ -21,6 +21,8 @@
   <img align="center" alt="Sequelize" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg">
   <img align="center" alt="PayPal" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/PayPal_logo.svg/527px-PayPal_logo.svg.png" width="70"/>
   <img align="center" alt="Heroku" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg">
+   <img align="center" alt="Auth0" height="60" width="60" src="https://cdn.worldvectorlogo.com/logos/auth0.svg">
+ 
    </br>
   <img align="center" alt="Jest" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
   <img align="center" alt="Git" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
