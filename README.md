@@ -1,9 +1,3 @@
-<div align="center">
-
-<img src="https://www.fusioninformatics.com/images/seo-banner/nodejs-banner.jpg" width="98%" height="auto" maxHeight="200px"/>
- 
-</div>
- 
 <hr/>
 
 ### Hola!
